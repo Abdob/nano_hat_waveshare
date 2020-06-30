@@ -9,14 +9,14 @@ First I follow these instructions and they work well:
 Software setup
 
 Open a terminal and install libraries by the following commands
-    sudo apt-get update
-    sudo apt-get python3-pip
-    sudo pip3 install pyserial
-    sudo apt-get install p7zip
-    Download demo codes
-    mkdir -p ~/Documents/SIM7600X_4G_for_JETSON_NANO
-    wget -P ~/Documents/SIM7600X_4G_for_JETSON_NANO/ https://www.waveshare.com/wiki/File:SIM7600X_4G_for_JETSON_NANO.7z
-    cd ~/Documents/SIM7600X_4G_for_JETSON_NANO/
+        sudo apt-get update
+        sudo apt-get python3-pip
+        sudo pip3 install pyserial
+        sudo apt-get install p7zip
+        Download demo codes
+        mkdir -p ~/Documents/SIM7600X_4G_for_JETSON_NANO
+        wget -P ~/Documents/SIM7600X_4G_for_JETSON_NANO/ https://www.waveshare.com/wiki/File:SIM7600X_4G_for_JETSON_NANO.7z
+        cd ~/Documents/SIM7600X_4G_for_JETSON_NANO/
 
 My First problem I encounter is this instruction: 
 
